@@ -110,3 +110,5 @@ fct_c(df1$country, df2$country)
 bind_rows(df1, df2)
 rbind(df1, df2)
 
+#
+
